@@ -15,7 +15,10 @@ public class Conflicto {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("Esto es el proyecto conflicto creado por Daniel");
+        for (int i = 0; i < 5; i++) {
+            System.out.println("Esto es el proyecto conflicto creado por Daniel");
+            
+        }
     }
     
 }
